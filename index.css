@@ -75,6 +75,7 @@
 
 #twocontain img {
 	margin-left: 50px;
+	margin-bottom: 50px;
 }
 
 #two h3 {
@@ -129,7 +130,6 @@ p {
 }
 
 #two {
-	background-color: red;
 	height: 800px;
 }
 
