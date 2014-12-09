@@ -34,7 +34,7 @@
 }
 
 #intro {
-	margin-top: 325px;
+	margin-top: 315px;
 }
 
 #title {
@@ -55,6 +55,8 @@
 }
 
 #quotebar p {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 	font-size: 25px;
 	color:black;
 }
@@ -66,7 +68,14 @@
 }
 
 #quote p {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 	font-size: 25px;
+}
+
+#quote #pro {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
 }
 
 #quoter{
@@ -88,12 +97,16 @@
 
 #two h3 {
 	font-size: 40px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 }
 
 #two p {
 	font-size: 21px;
 	padding-right: 25px;
 	padding-left: 25px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 }
 
 #question {
@@ -103,21 +116,25 @@
 h2 {
 	font-size: 35px;
 	color: white;
-	font-family: Helvetica;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 	text-align: center;
+
 }
 
 h3{
 	font-size: 25px;
 	color: green;
-	font-family: Helvetica;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 	text-align: center;
 }
 
 p {
 	font-size: 14px;
 	color: black;
-	font-family: Helvetica;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 	text-align: center;
 }
 
@@ -132,6 +149,8 @@ p {
 	color: black;
 	font-size: 27px;
 	margin-top: 50px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 }
 
 #bigphoto {
@@ -158,7 +177,8 @@ p {
 }
 
 #bottom p {
-	font-family: Helvetica;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 	font-size: 17px;
 	color: white;
 	vertical-align: center;
