@@ -23,11 +23,9 @@ p {
 	font-family: Georgia;
 }
 
-.intro {
-  border: 3px solid black;
-  width: 100%;
-  height: 600px;
+.jumbotron {
   background-image:url('http://i.imgur.com/LUg4z2s.jpg');
+  height: 500px;
 }
 
 .history {
@@ -45,8 +43,3 @@ p {
   width: 100%;
 }
 
-img {
-	vertical-align: middle;
-	height: 100%;
-	width: 100%;
-}
