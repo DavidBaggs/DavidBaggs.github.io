@@ -175,6 +175,10 @@ p {
 	height: 800px;
 }
 
+#bignote {
+	background-image: src="crafts.png">
+}
+
 #bignote h1 {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
