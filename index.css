@@ -189,6 +189,16 @@ p {
 	font-size: 35px;
 }
 
+#bigphoto h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	font-size: 35px;
+}
+
 #three {
 	background-color: yellow;
 }
