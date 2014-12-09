@@ -118,6 +118,10 @@ p {
 	margin-top: 50px;
 }
 
+#break {
+	background-image:url('http://i.imgur.com/oYx3STm.png');
+}
+
 #two {
 	background-color: red;
 }
