@@ -64,10 +64,11 @@
 	margin-top: 150px;
 }
 
-#two {
+#twocontain {
 	margin-right: 25px;
-	margin-left:25px;
+	margin-left: 25px;
 }
+
 #two h3 {
 	font-size: 40px;
 }
