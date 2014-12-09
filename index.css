@@ -61,6 +61,14 @@
 	margin-left: 100px;
 }
 
+#mquote {
+	font-size: 25px;
+}
+
+#quote p {
+	font-size: 20px;
+}
+
 #quoter{
 	float: right;
 	margin-top: 50px;
