@@ -71,3 +71,9 @@ p {
 	background-color: gray;
 }
 
+#bottom p {
+	font-family: Helvetica;
+	font-size: 10px;
+	color: white;
+}
+
