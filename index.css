@@ -95,15 +95,16 @@
 	margin-bottom: 50px;
 }
 
+#acting {
+	font-size: 25px;
+}
+
 #two h3 {
 	font-size: 40px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 }
 
-#acting {
-	font-size: 25px;
-}
 
 #two p {
 	font-size: 21px;
