@@ -69,11 +69,14 @@ p {
 #bottom {
 	height: 25px;
 	background-color: gray;
+
 }
 
 #bottom p {
 	font-family: Helvetica;
 	font-size: 10px;
 	color: white;
+	vertical-align: center;
+	text-align: center;
 }
 
