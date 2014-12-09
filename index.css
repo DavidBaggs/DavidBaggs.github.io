@@ -9,6 +9,8 @@
 }
 
 #h1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
 	color: white;
 	text-shadow: 2px 2px #080808;
 }
@@ -37,6 +39,8 @@
 	font-size: 50px;
 	color: black;
 	margin-top: 50px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
 }
 
 #title2 {
