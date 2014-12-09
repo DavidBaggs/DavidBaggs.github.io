@@ -56,14 +56,15 @@
 }
 
 #quote {
-	float: left
+	float: left;
 	margin-top: 150px;
 	margin-left: 50px;
 }
 
 #quoter{
-	float: right
+	float: right;
 	margin-top: 150px;
+	margin-right: 50px;
 }
 
 #twocontain {
