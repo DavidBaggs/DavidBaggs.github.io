@@ -32,6 +32,11 @@ p {
 	text-align: right;
 }
 
+.container h1 {
+	color: white;
+	text-align: right;
+}
+
 .jumbotron h2 {
 	color: white;
 	text-align: right;
