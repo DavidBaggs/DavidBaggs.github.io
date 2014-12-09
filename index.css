@@ -1,14 +1,15 @@
 h1 {
 	font-size: 50px;
-	color: brown;
-	text-align: center;
-	font-family: Helvetica;
+	color: white;
+	text-align: left;
+	font-family: Futura;
 }
 
 h2 {
 	font-size: 35px;
-	color: light brown;
+	color: white;
 	font-family: Helvetica;
+	text-align: left;
 }
 
 h3{
