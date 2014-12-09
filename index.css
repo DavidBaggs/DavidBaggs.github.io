@@ -191,6 +191,11 @@ p {
 	color: white;
 }
 
+#three {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
 #three h2 {
 	font-size: 50px;
 	color: black;
