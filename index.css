@@ -228,15 +228,14 @@ p {
 
 #bottom {
 	height: 25px;
-	background-color: gray;
 
 }
 
 #bottom p {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
-	font-size: 17px;
-	color: white;
+	font-size: 10px;
+	color: gray;
 	vertical-align: center;
 	text-align: center;
 }
