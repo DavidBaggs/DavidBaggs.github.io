@@ -56,6 +56,12 @@ p {
 	background-color: blue;
 }
 
+#one p {
+	text-align: left;
+	color: white;
+	font-size: 20px;
+}
+
 #two {
 	background-color: red;
 }
