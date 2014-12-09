@@ -73,6 +73,10 @@
 	margin-top: 100px;
 }
 
+#twocontain img {
+	text-align: center;
+}
+
 #two h3 {
 	font-size: 40px;
 }
