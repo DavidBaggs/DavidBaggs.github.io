@@ -66,3 +66,8 @@ p {
   width: 100%;
 }
 
+#bottom {
+	height: 50px;
+	background-color: gray;
+}
+
