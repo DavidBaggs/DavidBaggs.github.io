@@ -1,0 +1,44 @@
+h1 {
+	font-size: 50px;
+	color: brown;
+	text-align: center;
+	font-family: Helvetica;
+}
+
+h2 {
+	font-size: 35px;
+	color: light brown;
+	font-family: Helvetica;
+}
+
+h3{
+	font-size: 25px;
+	color: green;
+	font-family: Helvetica;
+}
+
+p {
+	font-size: 14px;
+	color: black;
+	font-family: Georgia;
+}
+
+.intro {
+  border: 3px solid black;
+  width: 100%;
+}
+
+.history {
+  border: 3px solid green;
+  width: 100%;
+}
+
+.traditions {
+  border: 3px solid red;
+  width: 100%;
+}
+
+.education {
+  border: 3px solid black;
+  width: 100%;
+}
