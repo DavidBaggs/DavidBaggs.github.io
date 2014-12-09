@@ -54,7 +54,18 @@ p {
 
 #one {
 	background-color: blue;
-	color: blue;
+}
+
+#two {
+	background-color: red;
+}
+
+#three {
+	background-color: yellow;
+}
+
+#four {
+	background-color: green;
 }
 
 #bottom {
