@@ -95,14 +95,14 @@
 	margin-bottom: 50px;
 }
 
-#acting {
-	font-size: 25px;
-}
-
 #two h3 {
 	font-size: 40px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
+}
+
+#two h4 {
+	font-size: 25px;
 }
 
 
