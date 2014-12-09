@@ -38,6 +38,20 @@
 	margin-top: 50px;
 }
 
+#title {
+	font-size: 50px;
+	color: white;
+	margin-top: 50px;
+}
+
+#history h3 {
+	font-size: 30px;
+}
+
+#history p {
+	font-size: 20px;
+}
+
 #question {
 	font-style: italic;
 }
