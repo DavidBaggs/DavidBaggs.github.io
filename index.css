@@ -1,4 +1,4 @@
-.jumbotron #onn {
+.jumbotron {
   background-image:url('http://i.imgur.com/yL6aK0d.png');
   height: 500px;
 }
@@ -119,7 +119,7 @@ p {
 }
 
 #bigphoto {
-	width: 100%
+	width: 100%;
 	height: 500px;
 }
 
