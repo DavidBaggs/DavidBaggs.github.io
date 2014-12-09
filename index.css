@@ -191,17 +191,28 @@ p {
 	color: white;
 }
 
-
-#three {
-	background-color: yellow;
-}
-
 #three h2 {
 	font-size: 50px;
 	color: black;
 	margin-top: 50px;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
+}
+
+#three h3 {
+	font-size: 30px;
+	color: black;
+	margin-top: 50px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+#three p {
+	font-size: 20px;
+	color: black;
+	margin-top: 50px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 }
 
 #four {
