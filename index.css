@@ -3,6 +3,10 @@
   height: 500px;
 }
 
+.row {
+	height: 500px;
+}
+
 #h1 {
 	color: white;
 }
