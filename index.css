@@ -1,5 +1,10 @@
-.jumbotron {
+.jumbotron #onn {
   background-image:url('http://i.imgur.com/yL6aK0d.png');
+  height: 500px;
+}
+
+.jumbotron #du {
+  background-image:url('http://i.imgur.com/oYx3STm.png');
   height: 500px;
 }
 
@@ -116,11 +121,6 @@ p {
 	color: black;
 	font-size: 27px;
 	margin-top: 50px;
-}
-
-#break {
-	background-image:url('http://i.imgur.com/oYx3STm.png');
-	height: 500px;
 }
 
 #two {
