@@ -47,4 +47,6 @@ p {
 
 img {
 	vertical-align: middle;
+	height: 100%;
+	width: 100%;
 }
