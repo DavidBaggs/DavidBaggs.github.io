@@ -46,13 +46,9 @@
 	margin-bottom: 25px;
 }
 
-#quotebar {
-	background-color: orange;
-}
-
 #quotebar p {
 	font-size: 25px;
-	color:white;
+	color:black;
 }
 
 #quote {
