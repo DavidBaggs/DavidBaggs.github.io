@@ -52,19 +52,9 @@ p {
 	text-align: center;
 }
 
-.history {
-  border: 3px solid green;
-  width: 100%;
-}
-
-.traditions {
-  border: 3px solid red;
-  width: 100%;
-}
-
-.education {
-  border: 3px solid black;
-  width: 100%;
+#one {
+	background-color: blue;
+	color: blue;
 }
 
 #bottom {
